@@ -1,0 +1,13 @@
+package entities.enums;
+
+public enum Genre {
+	ACTION,
+	HORROR,
+	COMEDY,
+	ROMANCE,
+	SCIENCE_FICTION,
+	ANIMATION,
+	DOCUMENTARY,
+	MUSICAL,
+	THRILLER;
+}
